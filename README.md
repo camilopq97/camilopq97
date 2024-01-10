@@ -3,7 +3,7 @@
 
 Passionate about robotics 🤖, technology 🚀, sports ⚽🚴🏈🏎️, music 🎸 & movies 🎥.
 
-- I’m currently working on [Kiwibot](https://www.kiwibot.com)🥝 as Service Desk Engineer on the AI & Robotics Team. We're building the future by developing Food Delivery Robots!
+- I’m currently working on [Kiwibot](https://www.kiwibot.com)🥝 as Service Desk Manager. We're building the future by developing Food Delivery Robots!
 - I’m interested on Code Programming (mainly on Python, C++), Robotics (ROS/ROS2), Open Source, Machine Learning, and Cybersecurity. I'm open to learn new things every day!
 
 ### Languages, Tools & Platforms
