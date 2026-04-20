@@ -1,12 +1,15 @@
 # Hi! I'm Camilo Pinzón 👋
-## Mechatronics Engineer :computer:
+## Service Desk Manager | Mechatronics Engineer
 
-Passionate about robotics 🤖, technology 🚀, sports ⚽🚴🏈🏎️, music 🎸 & movies 🎥.
+Dynamic leader with a strong background in software development and innovation. Experienced in leading cross-functional teams, building tools for autonomous robot fleets, and leveraging AI to optimize operations. Passionate about technology, robotics, and data analysis.
 
-- I’m currently working on [Kiwibot](https://www.kiwibot.com)🥝 as Service Desk Manager. We're building the future by developing Food Delivery Robots!
-- I’m interested on Code Programming (mainly on Python, C++), Robotics (ROS/ROS2), Open Source, Machine Learning, and Cybersecurity. I'm open to learn new things every day!
+- 🤖 Currently working at [robot.com](https://www.robot.com) as **Service Desk Manager** — managing infrastructure and tooling for a fleet of +500 autonomous delivery robots
+- 🧠 Built in-house GPT-powered ticket automation, data visualization dashboards, web applications, and APIs to optimize operations
+- 💻 Interested in Python, C++, ROS/ROS2, Machine Learning, and Cybersecurity
+- 📍 Based in Medellín, Colombia
+- 🌐 Fluent in English and Spanish
 
-### Languages, Tools & Platforms
+### 🛠️ Languages, Tools & Platforms
 
 [<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
@@ -31,35 +34,27 @@ Passionate about robotics 🤖, technology 🚀, sports ⚽🚴🏈🏎️, musi
 <br />
 <br />
 
-### Code stats
+### 📜 Certifications
+
+- Google Cloud Platform Big Data and Machine Learning Fundamentals
+- Big Data: Data Acquisition and Storage
+- Machine Learning With Big Data
+- How to Win a Data Science Competition: Learn from Top Kagglers
+
+### 📊 Code stats
 
 <img align="center" alt="stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=camilopq97&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" />
 
-### Contact me
+### 📬 Contact me
 
 [<img align="left" alt="Email" height="35px" src="https://img.icons8.com/external-sbts2018-flat-sbts2018/58/000000/external-email-social-media-basic-1-sbts2018-flat-sbts2018.png" />][email]
-[<img align="left" alt="Github" height="35px" src="https://img.icons8.com/nolan/64/github.png" />][github]
+[<img align="left" alt="Github" height="35px" src="https://img.icons8.com/nolan/64/github.png" />][github2]
 [<img align="left" alt="LinkedIn" height="30px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
 [<img align="left" alt="Twitter" height="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Instagram" height="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 [email]: mailto:capinzonq@gmail.com
-[github]: https://github.com/camilopq97
+[github2]: https://github.com/camilopq97
 [linkedin]: https://www.linkedin.com/in/capinzonq/
 [twitter]: https://twitter.com/camilopq97
 [instagram]: https://www.instagram.com/capinzonq/
-
-<!--
-**camilopq97/camilopq97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src=""/>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
